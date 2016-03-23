@@ -1,0 +1,20 @@
+<!DOCTYPE>
+<html>
+<body>
+
+<script>
+	  var firstFunck = function( x, x, z ){
+	          if (x + y > z && y + z > x && z + x > y ){
+	          var sum = x + y + z;
+	             console.log(sum)
+	             }
+	             else{
+	             console.log( 'error')
+	             }
+	             }
+	             firstFunck(3, 5, 1)
+	
+  </script>
+
+</body>
+</html>

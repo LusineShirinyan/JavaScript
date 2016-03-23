@@ -3,7 +3,7 @@
 <body>
 
 <script>
-	  var firstFunck = function( x, x, z ){
+	  var firstFunck = function( x, y, z ){
 	          if (x + y > z && y + z > x && z + x > y ){
 	          var sum = x + y + z;
 	             console.log(sum)

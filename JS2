@@ -1,0 +1,16 @@
+<!DOCTYPE>
+<html>
+<body>
+<script>
+	var i = 1;
+	var n = 100;
+	while(i <= n){
+		console.log(i);
+		i *= 2;
+	}
+  </script>
+</body>
+</html>
+
+
+
